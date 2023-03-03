@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1> Your name </h1>
+<form action="{% url 'reverse'%}">
+    <!--создаем прямоугольник прописываем длинну и ширину и название прямоугольника -->
+    <textarea cols="50" rows="5" name="usertext"></textarea>
+    <br>
+    <!-- создаем кнопку -->
+    <input type="submit" value="Reverse">
+</form>
+{% endblock %}
