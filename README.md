@@ -24,18 +24,14 @@
 
 **- hm_lesson_28** - HTML
   
-## hm_lesson_24
+## lesson_24
 Телеграм бот
 
+## lesson_32
+Практика на Python Core, Telegram Bot, Django
 
+## parser_av_by
+Телеграм бот с асинхронным парсингом с сайта av.by.
 
-
-
-
-
-
-
-
-
-
+![image](https://github.com/Nastassia2334/HomeWork/assets/122525312/57aedbad-2884-494b-866c-19cc61259a1b)
 
